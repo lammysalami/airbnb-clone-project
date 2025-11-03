@@ -200,3 +200,20 @@ Key measures:
 **Why it matters:**  
 Security ensures user trust, protects sensitive information, and prevents system breaches that could compromise user data or business operations.
 
+
+
+
+##  CI/CD Pipeline Overview
+
+**What is CI/CD?**
+Continuous Integration and Continuous Deployment (CI/CD) automate the process of testing and deploying code changes to ensure quality and efficiency.
+
+**Why it's important:**
+- Detects bugs early through automated tests.
+- Speeds up deployment.
+- Ensures consistent environments via Docker containers.
+
+**Tools:**
+- **GitHub Actions:** Automates build and test workflows.
+- **Docker:** Provides isolated development and deployment environments.
+
