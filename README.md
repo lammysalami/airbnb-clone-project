@@ -176,3 +176,12 @@ The Airbnb Clone Project is a comprehensive full-stack application designed to r
 - A **Property** can have multiple **Reviews**.
 
 
+
+##  Feature Breakdown
+
+- **User Management:** Allows registration, login, and profile management for users and hosts.
+- **Property Management:** Enables hosts to add, edit, and delete property listings.
+- **Booking System:** Allows users to view available properties, make reservations, and manage bookings.
+- **Payment Integration:** Handles secure transactions for property bookings.
+- **Review System:** Users can rate and review properties after stays.
+
