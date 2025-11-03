@@ -185,3 +185,18 @@ The Airbnb Clone Project is a comprehensive full-stack application designed to r
 - **Payment Integration:** Handles secure transactions for property bookings.
 - **Review System:** Users can rate and review properties after stays.
 
+
+
+
+##  API Security Overview
+
+Key measures:
+- **Authentication:** Using JWT or OAuth to verify users before granting access.
+- **Authorization:** Ensures users can only access their own data or permitted resources.
+- **Rate Limiting:** Prevents abuse of endpoints by limiting request frequency.
+- **Data Encryption:** Secures sensitive data in transit (HTTPS) and at rest.
+- **Input Validation:** Protects against injection and XSS attacks.
+
+**Why it matters:**  
+Security ensures user trust, protects sensitive information, and prevents system breaches that could compromise user data or business operations.
+
