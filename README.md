@@ -129,3 +129,50 @@ The Airbnb Clone Project is a comprehensive full-stack application designed to r
 | **GitHub Actions** | Automates CI/CD workflows for testing and deployment. |
 
 
+
+##  Database Design Overview
+
+**Entities:**
+1. **User**
+   - id
+   - name
+   - email
+   - password
+   - role
+
+2. **Property**
+   - id
+   - title
+   - description
+   - price_per_night
+   - owner_id (FK → User)
+
+3. **Booking**
+   - id
+   - property_id (FK → Property)
+   - user_id (FK → User)
+   - start_date
+   - end_date
+   - total_price
+
+4. **Review**
+   - id
+   - property_id (FK → Property)
+   - user_id (FK → User)
+   - rating
+   - comment
+
+5. **Payment**
+   - id
+   - booking_id (FK → Booking)
+   - amount
+   - status
+   - payment_date
+
+**Relationships:**
+- A **User** can have many **Properties**.
+- A **User** can make multiple **Bookings**.
+- A **Booking** belongs to one **Property**.
+- A **Property** can have multiple **Reviews**.
+
+
