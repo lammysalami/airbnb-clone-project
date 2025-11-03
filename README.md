@@ -104,3 +104,16 @@ The Airbnb Clone Project is a comprehensive full-stack application designed to r
 - **Version Control:** Git & GitHub
 
 
+## 👥 Team Roles
+
+| Role | Description |
+|------|--------------|
+| **Project Manager** | Oversees project milestones, coordinates tasks, and ensures timely delivery. |
+| **Backend Developer** | Designs RESTful APIs, handles authentication, and integrates database models. |
+| **Database Administrator** | Designs and manages the relational database schema. |
+| **Frontend Developer** | Implements the user interface using React and integrates backend APIs. |
+| **QA Tester** | Ensures application quality through testing and bug reports. |
+| **DevOps Engineer** | Sets up CI/CD pipelines, manages Docker containers, and oversees deployment. |
+| **Product Owner** | Defines requirements and prioritizes features based on business goals. |
+
+
