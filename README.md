@@ -84,3 +84,23 @@ Understanding mockup design elements helps developers translate visuals into acc
 
 ---
 
+
+
+# Airbnb Clone Project
+
+## 🏡 About the Project
+The Airbnb Clone Project is a comprehensive full-stack application designed to replicate the core functionalities of Airbnb. It involves backend development, database design, API creation, and implementation of security and CI/CD principles.
+
+## 🎯 Project Goals
+- Build a scalable booking platform using modern web technologies.
+- Understand backend architecture and secure API design.
+- Implement a CI/CD pipeline for smooth deployment.
+
+## 🧰 Tech Stack
+- **Backend:** Django  
+- **Database:** MySQL / PostgreSQL  
+- **API:** GraphQL  
+- **DevOps:** Docker, GitHub Actions  
+- **Version Control:** Git & GitHub
+
+
